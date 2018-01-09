@@ -1,0 +1,6 @@
+
+# COSbench vars
+cosPATH="/Users/ugurkaynar/"
+XMLfill="./50fill.xml"
+csv="s2-filling_cluster.csv"
+cosRes="archive"
